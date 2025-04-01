@@ -8,4 +8,6 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
 
 ●	Les datasets [sont disponibles ici](https://datasets.imdbws.com/).
 
-![](clap cinema.png)
+### le fichier Notebook du travail est en disponible en téléchargement
+
+![](https://github.com/Edercine/Projet-Machine-Learning-syst-me-de-recommandation-de-films/blob/main/clap%20cinema.png)
