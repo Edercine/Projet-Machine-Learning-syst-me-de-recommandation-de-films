@@ -7,3 +7,5 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
 ●	La documentation expliquant brièvement la définition de chaque colonne et de chaque table [est disponible ici](https://www.imdb.com/interfaces/).
 
 ●	Les datasets [sont disponibles ici](https://datasets.imdbws.com/).
+
+![](clap cinema.png)
